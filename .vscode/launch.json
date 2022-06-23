@@ -1,0 +1,14 @@
+{
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Spring Boot-TransferenciasApplication<transferencias>",
+      "request": "launch",
+      "cwd": "${workspaceFolder}",
+      "mainClass": "br.com.zup.transferencias.TransferenciasApplication",
+      "projectName": "transferencias",
+      "args": "",
+      "envFile": "${workspaceFolder}/.env"
+    }
+  ]
+}
